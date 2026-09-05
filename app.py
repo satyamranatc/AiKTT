@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom Styling (Clean Dark Theme - No Emojis)
+# Custom Styling (Top Nav Bar & Dark Theme - No Emojis)
 st.markdown("""
 <style>
     .main {
@@ -76,6 +76,27 @@ st.markdown("""
         font-size: 0.95rem;
         line-height: 1.5;
     }
+    /* Top Navigation Bar Styling */
+    div.row-widget.stRadio > div {
+        flex-direction: row;
+        background-color: #161b22;
+        padding: 8px;
+        border-radius: 8px;
+        border: 1px solid #30363d;
+        margin-bottom: 1.5rem;
+    }
+    div.row-widget.stRadio > div > label {
+        background-color: transparent;
+        padding: 8px 16px;
+        border-radius: 6px;
+        color: #c9d1d9;
+        font-weight: 600;
+        margin-right: 4px;
+    }
+    div.row-widget.stRadio > div > label:hover {
+        background-color: #21262d;
+        color: #ffffff;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -101,23 +122,31 @@ except Exception as e:
     st.error(f"Error loading required datasets: {e}")
     st.stop()
 
-# Sidebar Setup
-st.sidebar.title("PPFAS Intelligence Platform")
+# Header Brand Banner
+st.markdown("## PPFAS Portfolio Intelligence Platform")
+
+# TOP NAVIGATION BAR (Rendered across top of every page)
+nav_choice = st.radio(
+    "Navigation Menu",
+    [
+        "Executive Overview (2016)",
+        "Holdings & Sectors",
+        "Stock AI Predictor (2017)",
+        "Risk & Hedging",
+        "AI Portfolio Forecast (2017)",
+        "Investor Commentary"
+    ],
+    horizontal=True,
+    label_visibility="collapsed"
+)
+
+# Sidebar Download Panel & Quick Info
+st.sidebar.title("PPFAS Platform")
 st.sidebar.caption("Parag Parikh Long Term Value Fund")
 st.sidebar.markdown("---")
 
-menu = st.sidebar.radio("Select Intelligence Module", [
-    "1. Executive Overview (2016 Actuals)",
-    "2. Stock Holdings & Sector Explorer",
-    "3. Stock-by-Stock AI Predictor (2017)",
-    "4. Risk Management & Hedging",
-    "5. AI 2017 Portfolio Forecast Model",
-    "6. Automated Investor Commentary"
-])
-
 excel_path = os.path.join(DATA_DIR, 'PPFAS_Portfolio_Intelligence_2016_2017_Master.xlsx')
 if os.path.exists(excel_path):
-    st.sidebar.markdown("---")
     st.sidebar.markdown("### Master Excel Workbook")
     with open(excel_path, "rb") as f:
         st.sidebar.download_button(
@@ -126,11 +155,14 @@ if os.path.exists(excel_path):
             file_name="PPFAS_Portfolio_Intelligence_2016_2017_Master.xlsx",
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
+st.sidebar.markdown("---")
+st.sidebar.markdown("### Dataset Summary")
+st.sidebar.info("• 2016 Actuals: 297 Holdings\n• 2017 AI Predictions: 360 Holdings\n• Total Holdings Tracked: 657 Records")
 
 # -------------------------------------------------------------
 # MODULE 1: EXECUTIVE OVERVIEW (2016 ACTUALS)
 # -------------------------------------------------------------
-if menu == "1. Executive Overview (2016 Actuals)":
+if nav_choice == "Executive Overview (2016)":
     st.markdown('<div class="main-title">Executive Portfolio Overview</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">High-Level Financial Performance & Fund Asset Metrics for Calendar Year 2016</div>', unsafe_allow_html=True)
     st.markdown('<div class="badge-actual">DATA SOURCE: 2016 HISTORICAL ACTUALS</div>', unsafe_allow_html=True)
@@ -179,7 +211,7 @@ if menu == "1. Executive Overview (2016 Actuals)":
 # -------------------------------------------------------------
 # MODULE 2: STOCK HOLDINGS & SECTOR EXPLORER
 # -------------------------------------------------------------
-elif menu == "2. Stock Holdings & Sector Explorer":
+elif nav_choice == "Holdings & Sectors":
     st.markdown('<div class="main-title">Stock Holdings & Sector Explorer</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Interactive Inspection Panel for Stock Positions and Industry Sector Allocations</div>', unsafe_allow_html=True)
     st.markdown('<div class="badge-actual">DATA SOURCE: 2016 HISTORICAL ACTUALS</div>', unsafe_allow_html=True)
@@ -236,7 +268,7 @@ elif menu == "2. Stock Holdings & Sector Explorer":
 # -------------------------------------------------------------
 # MODULE 3: STOCK-BY-STOCK AI PREDICTOR (2017)
 # -------------------------------------------------------------
-elif menu == "3. Stock-by-Stock AI Predictor (2017)":
+elif nav_choice == "Stock AI Predictor (2017)":
     st.markdown('<div class="main-title">Interactive Stock-by-Stock AI Predictor (2017)</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Deep Data Inspection Tool Comparing 2016 Stock History with 2017 AI Predictions</div>', unsafe_allow_html=True)
     st.markdown('<div class="badge-prediction">MODEL OUTPUT: INDIVIDUAL STOCK FORECASTS</div>', unsafe_allow_html=True)
@@ -251,7 +283,6 @@ elif menu == "3. Stock-by-Stock AI Predictor (2017)":
     all_stocks = sorted(list(holdings_df['instrument_name'].unique()))
     selected_stock = st.selectbox("🔍 Select Stock to Analyze & Predict", all_stocks, index=all_stocks.index('Alphabet INC') if 'Alphabet INC' in all_stocks else 0)
 
-    # Filter stock history in 2016
     s_history_2016 = holdings_df[holdings_df['instrument_name'] == selected_stock].copy()
     s_pred_2017 = master_pred_df[master_pred_df['instrument_name'] == selected_stock].copy()
 
@@ -259,7 +290,6 @@ elif menu == "3. Stock-by-Stock AI Predictor (2017)":
     stock_sector = s_history_2016['industry_sector'].iloc[0] if len(s_history_2016) > 0 else 'N/A'
     months_active = len(s_history_2016)
 
-    # 2017 Prediction Info
     if len(s_pred_2017) > 0:
         pred_action = s_pred_2017['ai_action_strategy'].iloc[0]
         pred_weight_2017 = s_pred_2017['predicted_pct_nav'].iloc[-1]
@@ -320,7 +350,7 @@ elif menu == "3. Stock-by-Stock AI Predictor (2017)":
 # -------------------------------------------------------------
 # MODULE 4: RISK MANAGEMENT & HEDGING
 # -------------------------------------------------------------
-elif menu == "4. Risk Management & Hedging":
+elif nav_choice == "Risk & Hedging":
     st.markdown('<div class="main-title">Risk Management & Derivative Hedging</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Currency Futures Exposure, Arbitrage Legs, and Portfolio Turnover Analysis</div>', unsafe_allow_html=True)
     st.markdown('<div class="badge-actual">DATA SOURCE: 2016 HISTORICAL ACTUALS</div>', unsafe_allow_html=True)
@@ -354,7 +384,7 @@ elif menu == "4. Risk Management & Hedging":
 # -------------------------------------------------------------
 # MODULE 5: AI 2017 PORTFOLIO FORECAST MODEL
 # -------------------------------------------------------------
-elif menu == "5. AI 2017 Portfolio Forecast Model":
+elif nav_choice == "AI Portfolio Forecast (2017)":
     st.markdown('<div class="main-title">AI Predictive Portfolio & Stock Forecast (2017)</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Full Machine Learning Forecast for 2017 Portfolio Holdings, Target Weights, Strategy Actions, and Sector Shifts</div>', unsafe_allow_html=True)
     st.markdown('<div class="badge-prediction">MODEL OUTPUT: 2017 AI PREDICTIONS</div>', unsafe_allow_html=True)
@@ -450,7 +480,7 @@ elif menu == "5. AI 2017 Portfolio Forecast Model":
 # -------------------------------------------------------------
 # MODULE 6: AUTOMATED COMMENTARY
 # -------------------------------------------------------------
-elif menu == "6. Automated Investor Commentary":
+elif nav_choice == "Investor Commentary":
     st.markdown('<div class="main-title">Automated Monthly Investor Commentary</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Natural Language Generation (NLG) Report Synthesis</div>', unsafe_allow_html=True)
 
