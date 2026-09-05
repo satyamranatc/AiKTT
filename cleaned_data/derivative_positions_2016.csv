@@ -1,0 +1,63 @@
+report_date,month,derivative_category,sr_no,underlying,position_quantity,purchase_price,current_contract_price,margin_maintained_lakhs
+2016-01-31,January,Equity Future,1,Cipla Ltd.,-142400.0,584.04,588.5,480.03
+2016-01-31,January,Equity Future,2,Tata Motors Ltd,-300000.0,337.95,337.65,
+2016-01-31,January,Equity Future,3,Yes Bank Ltd,-280000.0,678.01,747.9,
+2016-01-31,January,Currency Future,1,USDINR 25-Feb-2016,-1550000.0,66.76,68.1,410.01
+2016-01-31,January,Currency Future,2,USDINR 27-Apr-2016,-19000000.0,67.64,68.84,
+2016-01-31,January,Currency Future,3,USDINR 29-Aug-2016,-2000000.0,69.8966,70.13,
+2016-01-31,January,Currency Future,1,578,578.0,2722.0,2998.0,276.0
+2016-02-29,February,Equity Future,1,Cipla Ltd,-142400.0,517.05,516.15,843.38
+2016-02-29,February,Equity Future,2,Infosys Ltd,-30000.0,1096.3,1092.25,
+2016-02-29,February,Equity Future,3,ITC Ltd,-99200.0,297.08,297.95,
+2016-02-29,February,Equity Future,4,TATA Consultancy Services Ltd,-26000.0,2300.69,2190.8,
+2016-02-29,February,Equity Future,5,Tata Motors Ltd,-393000.0,308.38,301.75,
+2016-02-29,February,Equity Future,6,Yes Bank Ltd,-280000.0,693.23,691.75,
+2016-02-29,February,Currency Future,1,USDINR 27-Apr-2016,-20550000.0,67.76,69.2,381.08
+2016-02-29,February,Currency Future,2,USDINR 29-Aug-2016,-2000000.0,69.8966,70.63,
+2016-02-29,February,Currency Future,1,3628,3628.0,4652.59,4777.36,124.76999999999953
+2016-04-30,April,Equity Future,1,Cipla Ltd,-142400.0,543.62,540.8,568.46
+2016-04-30,April,Equity Future,2,Coal India Ltd,-290400.0,292.6,289.1,
+2016-04-30,April,Equity Future,3,Infosys Ltd,-77500.0,1234.97,1216.95,
+2016-04-30,April,Equity Future,4,ITC Ltd,-99200.0,328.98,326.45,
+2016-04-30,April,Equity Future,5,Tata Motors Ltd,-393000.0,412.6,411.05,
+2016-04-30,April,Equity Future,6,Yes Bank Ltd,-74200.0,903.92,943.4,
+2016-04-30,April,Currency Future,1,USDINR 26-May-2016,-21550000.0,67.07,66.67,487.56
+2016-04-30,April,Currency Future,2,USDINR 29-Aug-2016,-2000000.0,69.8966,67.71,
+2016-04-30,April,Currency Future,1,21293,21293.0,17271.72,17430.08,158.36000000000058
+2016-05-31,May,Equity Future,1,Cipla Ltd,-142400.0,502.66,476.3,532.21
+2016-05-31,May,Equity Future,2,Coal India Ltd,-290400.0,280.04,293.8,
+2016-05-31,May,Equity Future,3,Infosys Ltd,-143000.0,1194.73,1245.2,
+2016-05-31,May,Equity Future,4,ITC Ltd,-99200.0,343.1,353.85,
+2016-05-31,May,Equity Future,5,Tata Motors Ltd,-393000.0,400.01,457.6,
+2016-05-31,May,Equity Future,6,Yes Bank Ltd,-74200.0,975.92,1034.65,
+2016-05-31,May,Currency Future,1,USDINR 28-Jun-2016,-22450000.0,67.73,67.6,520.79
+2016-05-31,May,Currency Future,2,USDINR 29-Aug-2016,-2000000.0,69.8966,68.3,
+2016-05-31,May,Currency Future,1,23793,23793.0,19596.29,19650.22,53.93000000000029
+2016-07-31,July,Equity Future,1,Coal India Ltd,-290700.0,331.75,330.35,498.77
+2016-07-31,July,Equity Future,2,Tata Motors Ltd,-273000.0,511.99,506.45,
+2016-07-31,July,Currency Future,1,USDINR 29-Aug-2016,-24450000.0,68.69,67.29,830.74
+2016-07-31,July,Currency Future,1,433,433.0,2958.31,2735.23,
+2016-08-31,August,Equity Future,1,Coal India Ltd,-290700.0,336.79,335.75,234.83
+2016-08-31,August,Equity Future,2,Tata Motors Ltd,-273000.0,504.08,540.9,
+2016-08-31,August,Currency Future,1,USDINR 28-Sept-2016,-26100000.0,67.35,67.27,511.8
+2016-08-31,August,Currency Future,1,24803,24803.0,18729.32,19155.04,425.72000000000116
+2016-09-30,September,Equity Future,1,Coal India Ltd,-290700.0,332.96,323.25,578.6
+2016-09-30,September,Equity Future,2,Tata Motors Ltd,-273000.0,547.62,536.55,
+2016-09-30,September,Currency Future,1,USDINR 28-Nov-2016,-26100000.0,67.17,67.24,441.56
+2016-09-30,September,Currency Future,1,26453,26453.0,19810.92,19929.42,118.5
+2016-10-31,October,Equity Future,1,Coal India Ltd,-290700.0,318.13,325.65,630.14
+2016-10-31,October,Equity Future,2,Cairns India Ltd,-266000.0,227.01,227.45,
+2016-10-31,October,Equity Future,3,Tata Motors Ltd,-273000.0,520.58,538.25,
+2016-10-31,October,Currency Future,1,USDINR 28-Nov-2016,-26100000.0,67.17,67.06,531.6
+2016-10-31,October,Currency Future,1,353,353.0,2335.9,2462.15,126.25
+2016-11-30,November,Equity Future,1,Coal India Ltd,-290700.0,304.02,309.65,556.95
+2016-11-30,November,Equity Future,2,Cairns India Ltd,-231000.0,245.79,253.5,
+2016-11-30,November,Equity Future,3,Tata Motors Ltd,-220500.0,465.55,461.65,
+2016-11-30,November,Currency Future,1,USDINR 28-Dec-2016,-25100000.0,68.75,68.56,362.52
+2016-11-30,November,Currency Future,1,26529,26529.0,20693.34,20477.06,
+2016-12-31,December,Equity Future,1,Cairns India Ltd,-231000.0,239.35,242.8,293.39
+2016-12-31,December,Equity Future,2,ITC Ltd,-124800.0,233.89,241.75,
+2016-12-31,December,Equity Future,3,Sun Pharmaceuticals Industries Ltd,-128800.0,619.64,631.5,
+2016-12-31,December,Equity Future,4,Tata Motors Ltd,-184500.0,462.93,472.6,
+2016-12-31,December,Currency Future,1,USDINR 27-Jan-2017,-25100000.0,68.09,68.1,566.75
+2016-12-31,December,Currency Future,1,25484,25484.0,19456.11,19731.53,275.41999999999825

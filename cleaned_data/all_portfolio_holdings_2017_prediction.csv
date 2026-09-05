@@ -1,0 +1,361 @@
+report_date,month,category,sr_no,instrument_name,isin,industry_sector,predicted_quantity,predicted_market_value_lakhs,predicted_pct_nav,ai_action_strategy
+2017-01-31,January,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4429.3818,6.7029,Accumulate / Overweight
+2017-01-31,January,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4454.0881,6.7403,Moderate Weight / Monitor
+2017-01-31,January,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3445.6271,5.2142,Accumulate / Overweight
+2017-01-31,January,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3356.925,5.08,Accumulate / Overweight
+2017-01-31,January,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3200.4454,4.8432,Accumulate / Overweight
+2017-01-31,January,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3175.4265,4.8054,Accumulate / Overweight
+2017-01-31,January,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2482.4248,3.7566,Core Holding (Maintain)
+2017-01-31,January,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2319.4076,3.51,Moderate Weight / Monitor
+2017-01-31,January,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2282.2465,3.4537,Core Holding (Maintain)
+2017-01-31,January,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2071.7847,3.1352,Moderate Weight / Monitor
+2017-01-31,January,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,1890.4766,2.8609,Core Holding (Maintain)
+2017-01-31,January,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1761.0706,2.665,Core Holding (Maintain)
+2017-01-31,January,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1582.914,2.3954,Core Holding (Maintain)
+2017-01-31,January,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1247.0164,1.8871,Core Holding (Maintain)
+2017-01-31,January,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1208.5801,1.8289,Moderate Weight / Monitor
+2017-01-31,January,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1138.9854,1.7236,Core Holding (Maintain)
+2017-01-31,January,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,608.0317,0.9201,Core Holding (Maintain)
+2017-01-31,January,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,209.0924,0.3164,Core Holding (Maintain)
+2017-01-31,January,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,868.4694,1.3142,Core Holding (Maintain)
+2017-01-31,January,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,804.6638,1.2176,Tactical Arbitrage (Rebalance)
+2017-01-31,January,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,561.8692,0.8503,Tactical Arbitrage (Rebalance)
+2017-01-31,January,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,297.2304,0.4498,Tactical Arbitrage (Rebalance)
+2017-01-31,January,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,7959.1749,12.0445,Core Anchor (Hold 100%)
+2017-01-31,January,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3082.3689,4.6645,Accumulate / Overweight
+2017-01-31,January,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2363.4476,3.5766,Core Holding (Maintain)
+2017-01-31,January,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2176.4012,3.2935,Core Holding (Maintain)
+2017-01-31,January,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,1949.754,2.9505,Moderate Weight / Monitor
+2017-01-31,January,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,995.7413,1.5069,Moderate Weight / Monitor
+2017-01-31,January,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,594.7359,0.9,Core Holding (Maintain)
+2017-01-31,January,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,303.0163,0.4585,Core Holding (Maintain)
+2017-02-28,February,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4506.6397,6.7657,Accumulate / Overweight
+2017-02-28,February,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4352.0886,6.5336,Moderate Weight / Monitor
+2017-02-28,February,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3381.3873,5.0764,Accumulate / Overweight
+2017-02-28,February,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3430.9977,5.1509,Accumulate / Overweight
+2017-02-28,February,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3331.9806,5.0023,Accumulate / Overweight
+2017-02-28,February,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3285.5245,4.9325,Accumulate / Overweight
+2017-02-28,February,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2527.4038,3.7943,Core Holding (Maintain)
+2017-02-28,February,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2267.1309,3.4036,Moderate Weight / Monitor
+2017-02-28,February,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2308.1222,3.4651,Core Holding (Maintain)
+2017-02-28,February,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2066.1632,3.1019,Moderate Weight / Monitor
+2017-02-28,February,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,1913.4849,2.8727,Core Holding (Maintain)
+2017-02-28,February,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1742.072,2.6153,Core Holding (Maintain)
+2017-02-28,February,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1545.3114,2.32,Core Holding (Maintain)
+2017-02-28,February,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1292.4444,1.9404,Core Holding (Maintain)
+2017-02-28,February,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1222.0471,1.8346,Moderate Weight / Monitor
+2017-02-28,February,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1170.3824,1.757,Core Holding (Maintain)
+2017-02-28,February,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,613.0806,0.9204,Core Holding (Maintain)
+2017-02-28,February,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,210.7256,0.3164,Core Holding (Maintain)
+2017-02-28,February,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,879.4468,1.3203,Core Holding (Maintain)
+2017-02-28,February,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,807.6208,1.2124,Tactical Arbitrage (Rebalance)
+2017-02-28,February,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,574.4323,0.8624,Tactical Arbitrage (Rebalance)
+2017-02-28,February,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,307.3374,0.4614,Tactical Arbitrage (Rebalance)
+2017-02-28,February,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8232.335,12.359,Core Anchor (Hold 100%)
+2017-02-28,February,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3173.0591,4.7637,Accumulate / Overweight
+2017-02-28,February,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2395.8946,3.5969,Core Holding (Maintain)
+2017-02-28,February,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2205.6727,3.3114,Core Holding (Maintain)
+2017-02-28,February,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,1956.5054,2.9372,Moderate Weight / Monitor
+2017-02-28,February,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,990.9373,1.4877,Moderate Weight / Monitor
+2017-02-28,February,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,586.4207,0.8804,Core Holding (Maintain)
+2017-02-28,February,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,308.9106,0.4637,Core Holding (Maintain)
+2017-03-31,March,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4502.8096,6.7067,Accumulate / Overweight
+2017-03-31,March,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4404.5566,6.5603,Moderate Weight / Monitor
+2017-03-31,March,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3514.1796,5.2342,Accumulate / Overweight
+2017-03-31,March,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3377.7635,5.031,Accumulate / Overweight
+2017-03-31,March,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3268.1265,4.8678,Accumulate / Overweight
+2017-03-31,March,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3276.8332,4.8807,Accumulate / Overweight
+2017-03-31,March,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2530.6514,3.7693,Core Holding (Maintain)
+2017-03-31,March,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2350.5744,3.5011,Moderate Weight / Monitor
+2017-03-31,March,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2270.1201,3.3813,Core Holding (Maintain)
+2017-03-31,March,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2128.2149,3.1699,Moderate Weight / Monitor
+2017-03-31,March,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,1979.6026,2.9486,Core Holding (Maintain)
+2017-03-31,March,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1735.0717,2.5843,Core Holding (Maintain)
+2017-03-31,March,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1555.7432,2.3172,Core Holding (Maintain)
+2017-03-31,March,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1297.8899,1.9332,Core Holding (Maintain)
+2017-03-31,March,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1254.0377,1.8678,Moderate Weight / Monitor
+2017-03-31,March,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1182.7881,1.7617,Core Holding (Maintain)
+2017-03-31,March,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,629.3918,0.9375,Core Holding (Maintain)
+2017-03-31,March,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,208.6117,0.3107,Core Holding (Maintain)
+2017-03-31,March,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,879.7644,1.3103,Core Holding (Maintain)
+2017-03-31,March,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,811.7556,1.209,Tactical Arbitrage (Rebalance)
+2017-03-31,March,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,576.5707,0.8588,Tactical Arbitrage (Rebalance)
+2017-03-31,March,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,307.9156,0.4587,Tactical Arbitrage (Rebalance)
+2017-03-31,March,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8099.162,12.0633,Core Anchor (Hold 100%)
+2017-03-31,March,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3093.5515,4.6077,Accumulate / Overweight
+2017-03-31,March,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2387.3025,3.5558,Core Holding (Maintain)
+2017-03-31,March,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2170.9966,3.2336,Core Holding (Maintain)
+2017-03-31,March,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2023.4514,3.0138,Moderate Weight / Monitor
+2017-03-31,March,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1016.6609,1.5143,Moderate Weight / Monitor
+2017-03-31,March,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,611.3507,0.9106,Core Holding (Maintain)
+2017-03-31,March,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,313.2046,0.4665,Core Holding (Maintain)
+2017-04-30,April,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4489.1995,6.6342,Accumulate / Overweight
+2017-04-30,April,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4518.4296,6.6774,Moderate Weight / Monitor
+2017-04-30,April,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3532.3482,5.2202,Accumulate / Overweight
+2017-04-30,April,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3432.3715,5.0724,Accumulate / Overweight
+2017-04-30,April,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3358.9945,4.964,Accumulate / Overweight
+2017-04-30,April,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3296.186,4.8712,Accumulate / Overweight
+2017-04-30,April,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2590.0988,3.8277,Core Holding (Maintain)
+2017-04-30,April,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2334.0033,3.4493,Moderate Weight / Monitor
+2017-04-30,April,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2283.4207,3.3745,Core Holding (Maintain)
+2017-04-30,April,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2070.9964,3.0605,Moderate Weight / Monitor
+2017-04-30,April,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,1936.7043,2.8621,Core Holding (Maintain)
+2017-04-30,April,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1779.7236,2.6301,Core Holding (Maintain)
+2017-04-30,April,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1587.754,2.3464,Core Holding (Maintain)
+2017-04-30,April,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1292.2517,1.9098,Core Holding (Maintain)
+2017-04-30,April,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1273.9759,1.8827,Moderate Weight / Monitor
+2017-04-30,April,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1169.4343,1.7282,Core Holding (Maintain)
+2017-04-30,April,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,625.2888,0.9241,Core Holding (Maintain)
+2017-04-30,April,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,216.0852,0.3193,Core Holding (Maintain)
+2017-04-30,April,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,882.0665,1.3035,Core Holding (Maintain)
+2017-04-30,April,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,816.8548,1.2071,Tactical Arbitrage (Rebalance)
+2017-04-30,April,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,567.9742,0.8394,Tactical Arbitrage (Rebalance)
+2017-04-30,April,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,304.6323,0.4502,Tactical Arbitrage (Rebalance)
+2017-04-30,April,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8359.7849,12.3543,Core Anchor (Hold 100%)
+2017-04-30,April,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3212.4192,4.7474,Accumulate / Overweight
+2017-04-30,April,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2437.3677,3.602,Core Holding (Maintain)
+2017-04-30,April,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2236.2399,3.3048,Core Holding (Maintain)
+2017-04-30,April,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2045.3711,3.0227,Moderate Weight / Monitor
+2017-04-30,April,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1006.2828,1.4871,Moderate Weight / Monitor
+2017-04-30,April,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,616.2943,0.9108,Core Holding (Maintain)
+2017-04-30,April,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,316.5193,0.4677,Core Holding (Maintain)
+2017-05-31,May,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4650.6748,6.8195,Accumulate / Overweight
+2017-05-31,May,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4586.7535,6.7258,Moderate Weight / Monitor
+2017-05-31,May,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3497.5444,5.1287,Accumulate / Overweight
+2017-05-31,May,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3396.9046,4.9811,Accumulate / Overweight
+2017-05-31,May,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3312.4934,4.8574,Accumulate / Overweight
+2017-05-31,May,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3313.0739,4.8582,Accumulate / Overweight
+2017-05-31,May,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2641.1373,3.8728,Core Holding (Maintain)
+2017-05-31,May,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2393.1147,3.5092,Moderate Weight / Monitor
+2017-05-31,May,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2299.5271,3.372,Core Holding (Maintain)
+2017-05-31,May,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2121.3452,3.1106,Moderate Weight / Monitor
+2017-05-31,May,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,1982.5453,2.9072,Core Holding (Maintain)
+2017-05-31,May,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1764.0648,2.5867,Core Holding (Maintain)
+2017-05-31,May,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1587.6166,2.3281,Core Holding (Maintain)
+2017-05-31,May,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1293.4448,1.8967,Core Holding (Maintain)
+2017-05-31,May,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1285.7148,1.8853,Moderate Weight / Monitor
+2017-05-31,May,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1182.0902,1.7334,Core Holding (Maintain)
+2017-05-31,May,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,632.9163,0.9281,Core Holding (Maintain)
+2017-05-31,May,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,217.3204,0.3187,Core Holding (Maintain)
+2017-05-31,May,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,893.8046,1.3106,Core Holding (Maintain)
+2017-05-31,May,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,853.209,1.2511,Tactical Arbitrage (Rebalance)
+2017-05-31,May,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,587.9444,0.8622,Tactical Arbitrage (Rebalance)
+2017-05-31,May,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,308.1396,0.4519,Tactical Arbitrage (Rebalance)
+2017-05-31,May,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8281.8213,12.1442,Core Anchor (Hold 100%)
+2017-05-31,May,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3172.6278,4.6522,Accumulate / Overweight
+2017-05-31,May,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2422.3429,3.5521,Core Holding (Maintain)
+2017-05-31,May,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2179.5766,3.1961,Core Holding (Maintain)
+2017-05-31,May,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2045.5377,2.9995,Moderate Weight / Monitor
+2017-05-31,May,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1027.1303,1.5062,Moderate Weight / Monitor
+2017-05-31,May,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,600.536,0.8806,Core Holding (Maintain)
+2017-05-31,May,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,315.6709,0.4629,Core Holding (Maintain)
+2017-06-30,June,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4705.3986,6.8467,Accumulate / Overweight
+2017-06-30,June,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4502.8157,6.5519,Moderate Weight / Monitor
+2017-06-30,June,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3500.0723,5.0929,Accumulate / Overweight
+2017-06-30,June,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3476.0116,5.0579,Accumulate / Overweight
+2017-06-30,June,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3440.4602,5.0062,Accumulate / Overweight
+2017-06-30,June,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3313.9706,4.8221,Accumulate / Overweight
+2017-06-30,June,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2646.2753,3.8505,Core Holding (Maintain)
+2017-06-30,June,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2402.2411,3.4955,Moderate Weight / Monitor
+2017-06-30,June,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2339.1663,3.4037,Core Holding (Maintain)
+2017-06-30,June,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2156.3779,3.1377,Moderate Weight / Monitor
+2017-06-30,June,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,1993.9346,2.9014,Core Holding (Maintain)
+2017-06-30,June,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1807.2366,2.6296,Core Holding (Maintain)
+2017-06-30,June,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1633.3042,2.3766,Core Holding (Maintain)
+2017-06-30,June,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1313.8708,1.9118,Core Holding (Maintain)
+2017-06-30,June,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1252.2619,1.8221,Moderate Weight / Monitor
+2017-06-30,June,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1215.8291,1.7691,Core Holding (Maintain)
+2017-06-30,June,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,632.7746,0.9208,Core Holding (Maintain)
+2017-06-30,June,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,214.5169,0.3121,Core Holding (Maintain)
+2017-06-30,June,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,889.0373,1.2936,Core Holding (Maintain)
+2017-06-30,June,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,846.9658,1.2324,Tactical Arbitrage (Rebalance)
+2017-06-30,June,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,585.873,0.8525,Tactical Arbitrage (Rebalance)
+2017-06-30,June,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,307.5776,0.4476,Tactical Arbitrage (Rebalance)
+2017-06-30,June,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8350.9778,12.1514,Core Anchor (Hold 100%)
+2017-06-30,June,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3187.6327,4.6383,Accumulate / Overweight
+2017-06-30,June,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2476.6108,3.6037,Core Holding (Maintain)
+2017-06-30,June,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2208.7793,3.214,Core Holding (Maintain)
+2017-06-30,June,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2068.075,3.0092,Moderate Weight / Monitor
+2017-06-30,June,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1030.2926,1.4992,Moderate Weight / Monitor
+2017-06-30,June,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,627.0127,0.9124,Core Holding (Maintain)
+2017-06-30,June,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,316.3062,0.4602,Core Holding (Maintain)
+2017-07-31,July,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4635.7454,6.6939,Accumulate / Overweight
+2017-07-31,July,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4514.327,6.5185,Moderate Weight / Monitor
+2017-07-31,July,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3638.595,5.2541,Accumulate / Overweight
+2017-07-31,July,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3557.1198,5.1364,Accumulate / Overweight
+2017-07-31,July,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3367.9318,4.8633,Accumulate / Overweight
+2017-07-31,July,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3395.871,4.9036,Accumulate / Overweight
+2017-07-31,July,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2682.0012,3.8727,Core Holding (Maintain)
+2017-07-31,July,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2400.9396,3.4669,Moderate Weight / Monitor
+2017-07-31,July,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2384.9847,3.4439,Core Holding (Maintain)
+2017-07-31,July,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2131.0738,3.0772,Moderate Weight / Monitor
+2017-07-31,July,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,1987.0789,2.8693,Core Holding (Maintain)
+2017-07-31,July,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1840.3344,2.6574,Core Holding (Maintain)
+2017-07-31,July,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1663.3452,2.4019,Core Holding (Maintain)
+2017-07-31,July,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1329.1245,1.9193,Core Holding (Maintain)
+2017-07-31,July,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1274.6592,1.8406,Moderate Weight / Monitor
+2017-07-31,July,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1201.6748,1.7352,Core Holding (Maintain)
+2017-07-31,July,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,648.051,0.9358,Core Holding (Maintain)
+2017-07-31,July,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,222.3893,0.3211,Core Holding (Maintain)
+2017-07-31,July,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,926.7711,1.3382,Core Holding (Maintain)
+2017-07-31,July,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,859.9092,1.2416,Tactical Arbitrage (Rebalance)
+2017-07-31,July,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,589.5465,0.8513,Tactical Arbitrage (Rebalance)
+2017-07-31,July,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,310.7976,0.4488,Tactical Arbitrage (Rebalance)
+2017-07-31,July,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8297.3038,11.9811,Core Anchor (Hold 100%)
+2017-07-31,July,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3299.4583,4.7644,Accumulate / Overweight
+2017-07-31,July,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2491.8163,3.5982,Core Holding (Maintain)
+2017-07-31,July,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2210.8707,3.1925,Core Holding (Maintain)
+2017-07-31,July,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2035.2182,2.9388,Moderate Weight / Monitor
+2017-07-31,July,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1049.764,1.5158,Moderate Weight / Monitor
+2017-07-31,July,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,608.6937,0.8789,Core Holding (Maintain)
+2017-07-31,July,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,319.0406,0.4607,Core Holding (Maintain)
+2017-08-31,August,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4710.1827,6.7498,Accumulate / Overweight
+2017-08-31,August,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4655.6849,6.6717,Moderate Weight / Monitor
+2017-08-31,August,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3627.0411,5.1977,Accumulate / Overweight
+2017-08-31,August,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3492.0344,5.0042,Accumulate / Overweight
+2017-08-31,August,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3455.9049,4.9525,Accumulate / Overweight
+2017-08-31,August,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3364.3011,4.8212,Accumulate / Overweight
+2017-08-31,August,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2649.9751,3.7975,Core Holding (Maintain)
+2017-08-31,August,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2437.7379,3.4934,Moderate Weight / Monitor
+2017-08-31,August,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2414.7107,3.4604,Core Holding (Maintain)
+2017-08-31,August,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2200.0551,3.1527,Moderate Weight / Monitor
+2017-08-31,August,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,2048.207,2.9352,Core Holding (Maintain)
+2017-08-31,August,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1830.3675,2.6229,Core Holding (Maintain)
+2017-08-31,August,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1622.8097,2.3256,Core Holding (Maintain)
+2017-08-31,August,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1325.1289,1.899,Core Holding (Maintain)
+2017-08-31,August,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1280.5719,1.8351,Moderate Weight / Monitor
+2017-08-31,August,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1205.7208,1.7278,Core Holding (Maintain)
+2017-08-31,August,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,659.3932,0.9449,Core Holding (Maintain)
+2017-08-31,August,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,219.6399,0.3147,Core Holding (Maintain)
+2017-08-31,August,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,934.0282,1.3385,Core Holding (Maintain)
+2017-08-31,August,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,861.3754,1.2343,Tactical Arbitrage (Rebalance)
+2017-08-31,August,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,597.6567,0.8565,Tactical Arbitrage (Rebalance)
+2017-08-31,August,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,318.5012,0.4564,Tactical Arbitrage (Rebalance)
+2017-08-31,August,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8501.4261,12.1829,Core Anchor (Hold 100%)
+2017-08-31,August,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3271.4952,4.6882,Accumulate / Overweight
+2017-08-31,August,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2469.716,3.5392,Core Holding (Maintain)
+2017-08-31,August,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2292.5784,3.2854,Core Holding (Maintain)
+2017-08-31,August,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2065.7005,2.9602,Moderate Weight / Monitor
+2017-08-31,August,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1030.9085,1.4773,Moderate Weight / Monitor
+2017-08-31,August,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,629.3691,0.9019,Core Holding (Maintain)
+2017-08-31,August,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,321.6885,0.461,Core Holding (Maintain)
+2017-09-30,September,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4820.0841,6.8554,Accumulate / Overweight
+2017-09-30,September,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4739.7482,6.7411,Moderate Weight / Monitor
+2017-09-30,September,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3692.7179,5.252,Accumulate / Overweight
+2017-09-30,September,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3539.2506,5.0337,Accumulate / Overweight
+2017-09-30,September,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3385.8607,4.8156,Accumulate / Overweight
+2017-09-30,September,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3484.4867,4.9559,Accumulate / Overweight
+2017-09-30,September,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2681.1055,3.8132,Core Holding (Maintain)
+2017-09-30,September,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2477.6251,3.5239,Moderate Weight / Monitor
+2017-09-30,September,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2463.3794,3.5036,Core Holding (Maintain)
+2017-09-30,September,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2217.0533,3.1532,Moderate Weight / Monitor
+2017-09-30,September,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,2033.9327,2.8928,Core Holding (Maintain)
+2017-09-30,September,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1830.7554,2.6038,Core Holding (Maintain)
+2017-09-30,September,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1685.4634,2.3972,Core Holding (Maintain)
+2017-09-30,September,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1332.4405,1.8951,Core Holding (Maintain)
+2017-09-30,September,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1285.2867,1.828,Moderate Weight / Monitor
+2017-09-30,September,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1230.2131,1.7497,Core Holding (Maintain)
+2017-09-30,September,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,663.4274,0.9436,Core Holding (Maintain)
+2017-09-30,September,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,223.9969,0.3186,Core Holding (Maintain)
+2017-09-30,September,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,929.1704,1.3215,Core Holding (Maintain)
+2017-09-30,September,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,849.4607,1.2081,Tactical Arbitrage (Rebalance)
+2017-09-30,September,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,597.9039,0.8504,Tactical Arbitrage (Rebalance)
+2017-09-30,September,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,327.1702,0.4653,Tactical Arbitrage (Rebalance)
+2017-09-30,September,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8416.6209,11.9706,Core Anchor (Hold 100%)
+2017-09-30,September,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3299.6836,4.693,Accumulate / Overweight
+2017-09-30,September,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2557.1611,3.637,Core Holding (Maintain)
+2017-09-30,September,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2311.6239,3.2878,Core Holding (Maintain)
+2017-09-30,September,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2116.3103,3.0099,Moderate Weight / Monitor
+2017-09-30,September,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1067.442,1.5182,Moderate Weight / Monitor
+2017-09-30,September,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,626.925,0.8917,Core Holding (Maintain)
+2017-09-30,September,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,325.6555,0.4631,Core Holding (Maintain)
+2017-10-31,October,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4831.3002,6.8201,Accumulate / Overweight
+2017-10-31,October,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4748.4044,6.703,Moderate Weight / Monitor
+2017-10-31,October,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3713.4864,5.2422,Accumulate / Overweight
+2017-10-31,October,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3643.7281,5.1436,Accumulate / Overweight
+2017-10-31,October,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3480.3207,4.913,Accumulate / Overweight
+2017-10-31,October,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3451.7607,4.8727,Accumulate / Overweight
+2017-10-31,October,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2741.3701,3.8698,Core Holding (Maintain)
+2017-10-31,October,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2465.2117,3.4801,Moderate Weight / Monitor
+2017-10-31,October,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2456.3981,3.4676,Core Holding (Maintain)
+2017-10-31,October,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2228.6818,3.1461,Moderate Weight / Monitor
+2017-10-31,October,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,2098.4473,2.9623,Core Holding (Maintain)
+2017-10-31,October,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1841.0292,2.5988,Core Holding (Maintain)
+2017-10-31,October,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1666.2812,2.3522,Core Holding (Maintain)
+2017-10-31,October,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1330.3991,1.8781,Core Holding (Maintain)
+2017-10-31,October,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1316.4086,1.8583,Moderate Weight / Monitor
+2017-10-31,October,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1213.698,1.7133,Core Holding (Maintain)
+2017-10-31,October,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,656.0502,0.9261,Core Holding (Maintain)
+2017-10-31,October,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,224.3072,0.3166,Core Holding (Maintain)
+2017-10-31,October,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,925.5696,1.3065,Core Holding (Maintain)
+2017-10-31,October,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,873.0242,1.2324,Tactical Arbitrage (Rebalance)
+2017-10-31,October,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,588.3796,0.8306,Tactical Arbitrage (Rebalance)
+2017-10-31,October,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,317.31,0.448,Tactical Arbitrage (Rebalance)
+2017-10-31,October,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8714.7923,12.3022,Core Anchor (Hold 100%)
+2017-10-31,October,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3303.4794,4.6634,Accumulate / Overweight
+2017-10-31,October,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2500.2138,3.5295,Core Holding (Maintain)
+2017-10-31,October,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2308.8409,3.2593,Core Holding (Maintain)
+2017-10-31,October,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2138.3979,3.0187,Moderate Weight / Monitor
+2017-10-31,October,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1054.7005,1.4889,Moderate Weight / Monitor
+2017-10-31,October,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,638.3312,0.9011,Core Holding (Maintain)
+2017-10-31,October,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,325.3482,0.4593,Core Holding (Maintain)
+2017-11-30,November,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4721.642,6.6159,Accumulate / Overweight
+2017-11-30,November,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4731.1524,6.6292,Moderate Weight / Monitor
+2017-11-30,November,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3693.0552,5.1747,Accumulate / Overweight
+2017-11-30,November,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3631.0795,5.0878,Accumulate / Overweight
+2017-11-30,November,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3536.3985,4.9552,Accumulate / Overweight
+2017-11-30,November,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3543.4965,4.9651,Accumulate / Overweight
+2017-11-30,November,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2731.0425,3.8267,Core Holding (Maintain)
+2017-11-30,November,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2451.3161,3.4348,Moderate Weight / Monitor
+2017-11-30,November,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2483.8832,3.4804,Core Holding (Maintain)
+2017-11-30,November,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2198.717,3.0808,Moderate Weight / Monitor
+2017-11-30,November,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,2076.5519,2.9097,Core Holding (Maintain)
+2017-11-30,November,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1835.3872,2.5717,Core Holding (Maintain)
+2017-11-30,November,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1655.0809,2.3191,Core Holding (Maintain)
+2017-11-30,November,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1387.6682,1.9444,Core Holding (Maintain)
+2017-11-30,November,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1339.8607,1.8774,Moderate Weight / Monitor
+2017-11-30,November,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1255.6483,1.7594,Core Holding (Maintain)
+2017-11-30,November,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,659.4464,0.924,Core Holding (Maintain)
+2017-11-30,November,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,222.6482,0.312,Core Holding (Maintain)
+2017-11-30,November,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,927.5823,1.2997,Core Holding (Maintain)
+2017-11-30,November,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,867.6002,1.2156,Tactical Arbitrage (Rebalance)
+2017-11-30,November,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,605.3054,0.8482,Tactical Arbitrage (Rebalance)
+2017-11-30,November,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,328.5013,0.4603,Tactical Arbitrage (Rebalance)
+2017-11-30,November,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8723.5198,12.2233,Core Anchor (Hold 100%)
+2017-11-30,November,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3317.3879,4.6483,Accumulate / Overweight
+2017-11-30,November,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2603.5406,3.6481,Core Holding (Maintain)
+2017-11-30,November,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2346.1182,3.2874,Core Holding (Maintain)
+2017-11-30,November,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2135.9721,2.9929,Moderate Weight / Monitor
+2017-11-30,November,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1079.5917,1.5127,Moderate Weight / Monitor
+2017-11-30,November,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,637.8911,0.8938,Core Holding (Maintain)
+2017-11-30,November,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,329.9411,0.4623,Core Holding (Maintain)
+2017-12-31,December,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070,4815.5702,6.6979,Accumulate / Overweight
+2017-12-31,December,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482,4809.324,6.6892,Moderate Weight / Monitor
+2017-12-31,December,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671,3642.2248,5.0659,Accumulate / Overweight
+2017-12-31,December,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373,3582.1089,4.9823,Accumulate / Overweight
+2017-12-31,December,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400,3466.5474,4.8216,Accumulate / Overweight
+2017-12-31,December,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729,3438.7127,4.7829,Accumulate / Overweight
+2017-12-31,December,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215,2788.5731,3.8786,Core Holding (Maintain)
+2017-12-31,December,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281,2507.3475,3.4875,Moderate Weight / Monitor
+2017-12-31,December,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179,2470.5267,3.4362,Core Holding (Maintain)
+2017-12-31,December,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500,2199.5344,3.0593,Moderate Weight / Monitor
+2017-12-31,December,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970,2096.3497,2.9158,Core Holding (Maintain)
+2017-12-31,December,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222,1878.6988,2.613,Core Holding (Maintain)
+2017-12-31,December,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660,1677.3923,2.3331,Core Holding (Maintain)
+2017-12-31,December,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663,1368.9153,1.904,Core Holding (Maintain)
+2017-12-31,December,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000,1326.4789,1.845,Moderate Weight / Monitor
+2017-12-31,December,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985,1260.9268,1.7538,Core Holding (Maintain)
+2017-12-31,December,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600,670.3625,0.9324,Core Holding (Maintain)
+2017-12-31,December,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078,223.1339,0.3104,Core Holding (Maintain)
+2017-12-31,December,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500,942.7219,1.3112,Core Holding (Maintain)
+2017-12-31,December,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800,887.2913,1.2341,Tactical Arbitrage (Rebalance)
+2017-12-31,December,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000,608.6671,0.8466,Tactical Arbitrage (Rebalance)
+2017-12-31,December,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800,332.797,0.4629,Tactical Arbitrage (Rebalance)
+2017-12-31,December,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093,8787.6132,12.2226,Core Anchor (Hold 100%)
+2017-12-31,December,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675,3326.182,4.6264,Accumulate / Overweight
+2017-12-31,December,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920,2531.7096,3.5214,Core Holding (Maintain)
+2017-12-31,December,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755,2354.5555,3.275,Core Holding (Maintain)
+2017-12-31,December,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690,2106.4603,2.9298,Moderate Weight / Monitor
+2017-12-31,December,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550,1086.465,1.5112,Moderate Weight / Monitor
+2017-12-31,December,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316,656.042,0.9125,Core Holding (Maintain)
+2017-12-31,December,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717,336.787,0.4684,Core Holding (Maintain)

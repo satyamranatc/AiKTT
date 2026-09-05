@@ -1,0 +1,298 @@
+report_date,month,category,sr_no,instrument_name,isin,industry_sector,quantity,market_value_lakhs,pct_nav
+2016-01-31,January,Core Equity,1,Axis Bank Ltd,INE238A01034,Banks,627579.0,2563.0326,4.175
+2016-01-31,January,Core Equity,2,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,1394.8879,2.2722
+2016-01-31,January,Core Equity,3,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1709.2312,2.7842
+2016-01-31,January,Core Equity,4,HDFC Bank Ltd,INE040A01026,Banks,201255.0,2112.8756,3.4418
+2016-01-31,January,Core Equity,5,ICICI Bank Ltd,INE090A01021,Banks,1026870.0,2363.3413,3.8498
+2016-01-31,January,Core Equity,6,ICRA Ltd,INE725G01011,Finance,88428.0,3407.0866,5.55
+2016-01-31,January,Core Equity,7,IL&FS Investment Managers Ltd,INE050B01023,Finance,11370900.0,2046.762,3.3341
+2016-01-31,January,Core Equity,8,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,1978.5099,3.2229
+2016-01-31,January,Core Equity,9,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,186663.0,1248.6821,2.034
+2016-01-31,January,Core Equity,10,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,388489.0,4737.8176,7.7176
+2016-01-31,January,Core Equity,11,Mahindra Holidays & Reorts India Ltd,INE998I01010,"Hotels, Resorts And Other Recreational Activities",574281.0,2289.0841,3.7288
+2016-01-31,January,Core Equity,12,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,1658.1053,2.701
+2016-01-31,January,Core Equity,13,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,293.3835,0.4779
+2016-01-31,January,Core Equity,14,Noida Toll Bridge Company Ltd,INE781B01015,Transportation,8748218.0,2064.5794,3.3631
+2016-01-31,January,Core Equity,15,Persistent Systems Ltd,INE262H01013,Software,428244.0,2838.8295,4.6243
+2016-01-31,January,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,751.38,1.224
+2016-01-31,January,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,323.3391,0.5267
+2016-01-31,January,Core Equity,18,Standard Chartered PLC IDR,INE028L21018,Banks,244992.0,111.9613,0.1824
+2016-01-31,January,Core Equity,19,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,370018.0,2771.8048,4.5151
+2016-01-31,January,Special Situation / Arbitrage,20,Cipla Ltd,INE059A01026,Pharmaceuticals,142400.0,833.1824,1.3572
+2016-01-31,January,Special Situation / Arbitrage,21,Tata Motors Ltd,INE155A01022,Auto,300000.0,1010.7,1.6464
+2016-01-31,January,Special Situation / Arbitrage,22,Yes Bank Ltd,INE528G01019,Banks,280000.0,2091.04,3.4062
+2016-01-31,January,Foreign Equity / ADRs,26,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,1773.0296,2.8882
+2016-01-31,January,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Internet Software & Services,16593.0,8221.5201,13.3924
+2016-01-31,January,Foreign Equity / ADRs,28,Anheuser Busch Inbev SA-ADR,US03524A1088,Brewers,8316.0,689.4052,1.123
+2016-01-31,January,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,IT Consulting & Other Services,20895.0,1731.0845,2.8198
+2016-01-31,January,Foreign Equity / ADRs,30,Nestle SA-ADR,US6410694060,Packaged Foods,37010.0,1801.7648,2.935
+2016-01-31,January,Foreign Equity / ADRs,31,Standard Chartered PLC,GB0004082847,Diversified Banks,32218.0,143.5656,0.2339
+2016-01-31,January,Foreign Equity / ADRs,32,United Parcel Services INC,US9113121068,Logistics,39675.0,2447.3266,3.9866
+2016-02-29,February,Core Equity,1,Axis Bank Ltd,INE238A01034,Bank,627579.0,2358.1281,4.0123
+2016-02-29,February,Core Equity,2,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,1306.5255,2.223
+2016-02-29,February,Core Equity,3,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1437.0026,2.445
+2016-02-29,February,Core Equity,4,HDFC Bank Ltd,INE040A01026,Bank,248370.0,2413.7838,4.107
+2016-02-29,February,Core Equity,5,ICICI Bank Ltd,INE090A01021,Bank,1026870.0,1951.5664,3.3205
+2016-02-29,February,Core Equity,6,ICRA Ltd,INE725G01011,Finance,88428.0,3283.3759,5.5865
+2016-02-29,February,Core Equity,7,IL&FS Investment Managers Ltd,INE050B01023,Finance,11370900.0,1745.4332,2.9698
+2016-02-29,February,Core Equity,8,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,1796.5089,3.0567
+2016-02-29,February,Core Equity,9,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,206663.0,1167.1293,1.9858
+2016-02-29,February,Core Equity,10,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,388489.0,4396.3358,7.4802
+2016-02-29,February,Core Equity,11,Mahindra Holidays & Reorts India Ltd,INE998I01010,"Hotels,Resorts And Other",574281.0,2075.7387,3.5318
+2016-02-29,February,Core Equity,12,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,1528.881,2.6013
+2016-02-29,February,Core Equity,13,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,249.3092,0.4242
+2016-02-29,February,Core Equity,14,Noida Toll Bridge Company Ltd,INE781B01015,Transportation,8748218.0,1946.4785,3.3119
+2016-02-29,February,Core Equity,15,Persistent Systems Ltd,INE262H01013,Software,430073.0,2613.5536,4.4469
+2016-02-29,February,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,618.3576,1.0521
+2016-02-29,February,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,258.7385,0.4402
+2016-02-29,February,Core Equity,18,Standard Chartered PLC IDR,INE028L21018,Bank,244992.0,97.0168,0.1651
+2016-02-29,February,Core Equity,19,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371395.0,2397.5404,4.0793
+2016-02-29,February,Special Situation / Arbitrage,20,Cipla Ltd,INE059A01026,Pharmaceuticals,142400.0,732.1496,1.2457
+2016-02-29,February,Special Situation / Arbitrage,21,Infosys Ltd,INE009A01021,Software,30000.0,325.215,0.5533
+2016-02-29,February,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,99200.0,293.2848,0.499
+2016-02-29,February,Special Situation / Arbitrage,23,TATA Consultancy Services Ltd,INE467B01029,Software,26000.0,565.968,0.963
+2016-02-29,February,Special Situation / Arbitrage,24,Tata Motors Ltd,INE155A01022,Auto,393000.0,1177.821,2.004
+2016-02-29,February,Special Situation / Arbitrage,25,Yes Bank Ltd,INE528G01019,Bank,280000.0,1929.2,3.2825
+2016-02-29,February,Foreign Equity / ADRs,31,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,1922.5189,3.2711
+2016-02-29,February,Foreign Equity / ADRs,32,Alphabet INC,US02079K1079,Software,16593.0,8004.0258,13.6185
+2016-02-29,February,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,638.748,1.0868
+2016-02-29,February,Foreign Equity / ADRs,34,International Business Machines Corp,US4592001014,Software,20895.0,1887.4103,3.2114
+2016-02-29,February,Foreign Equity / ADRs,35,Nestle SA-ADR,US6410694060,Consumer-Food Proc,37010.0,1793.5699,3.0517
+2016-02-29,February,Foreign Equity / ADRs,36,Standard Chartered PLC,GB0004082847,Bank,32218.0,131.2988,0.2234
+2016-02-29,February,Foreign Equity / ADRs,37,United Parcel Services INC,US9113121068,Logistics,39675.0,2644.8774,4.5002
+2016-04-30,April,Core Equity,1,Axis Bank Ltd,INE238A01034,Bank,627579.0,2964.6832,4.4656
+2016-04-30,April,Core Equity,2,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,1526.3427,2.2991
+2016-04-30,April,Core Equity,3,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1600.2203,2.4104
+2016-04-30,April,Core Equity,4,HDFC Bank Ltd,INE040A01026,Bank,258370.0,2925.6527,4.4068
+2016-04-30,April,Core Equity,5,ICICI Bank Ltd,INE090A01021,Bank,1026870.0,2433.1685,3.665
+2016-04-30,April,Core Equity,6,ICRA Ltd,INE725G01011,Finance,88428.0,3660.0349,5.513
+2016-04-30,April,Core Equity,7,IL&FS Investment Managers Ltd,INE050B01023,Finance,11370900.0,2080.8747,3.1343
+2016-04-30,April,Core Equity,8,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,2026.0422,3.0518
+2016-04-30,April,Core Equity,9,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1177.9901,1.7744
+2016-04-30,April,Core Equity,10,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,388489.0,4914.9686,7.4032
+2016-04-30,April,Core Equity,11,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts And Other",574281.0,2289.9455,3.4493
+2016-04-30,April,Core Equity,12,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,1778.4237,2.6788
+2016-04-30,April,Core Equity,13,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,301.4861,0.4541
+2016-04-30,April,Core Equity,14,Noida Toll Bridge Company Ltd,INE781B01015,Transportation,8748218.0,1977.0973,2.978
+2016-04-30,April,Core Equity,15,Persistent Systems Ltd,INE262H01013,Software,430073.0,3193.5071,4.8103
+2016-04-30,April,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,584.1528,0.8799
+2016-04-30,April,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,332.3277,0.5006
+2016-04-30,April,Core Equity,18,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371395.0,2783.7912,4.1931
+2016-04-30,April,Special Situation / Arbitrage,19,Cipla Ltd,INE059A01026,Pharmaceuticals,142400.0,764.688,1.1518
+2016-04-30,April,Special Situation / Arbitrage,20,Coal India Ltd,INE522F01014,Minerals & Mining,290400.0,836.4972,1.26
+2016-04-30,April,Special Situation / Arbitrage,21,Infosys Ltd,INE009A01021,Software,77500.0,936.2775,1.4103
+2016-04-30,April,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,99200.0,322.3504,0.4855
+2016-04-30,April,Special Situation / Arbitrage,23,Tata Motors Ltd,INE155A01022,Auto,393000.0,1604.8155,2.4173
+2016-04-30,April,Special Situation / Arbitrage,24,Yes Bank Ltd,INE528G01019,Bank,74200.0,699.6689,1.0539
+2016-04-30,April,Foreign Equity / ADRs,31,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,1966.4444,2.962
+2016-04-30,April,Foreign Equity / ADRs,32,Alphabet INC,US02079K1079,Software,16593.0,7604.3141,11.4541
+2016-04-30,April,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,690.2788,1.0397
+2016-04-30,April,Foreign Equity / ADRs,34,International Business Machines Corp,US4592001014,Software,20920.0,2040.4704,3.0735
+2016-04-30,April,Foreign Equity / ADRs,35,Nestle SA-ADR  *,US6410694060,Consumer-Food Proc,37010.0,1824.9231,2.7488
+2016-04-30,April,Foreign Equity / ADRs,36,Standard Chartered PLC,GB0004082847,Bank,56717.0,313.899,0.4728
+2016-04-30,April,Foreign Equity / ADRs,37,United Parcel Services INC,US9113121068,Logistics,39675.0,2760.4402,4.158
+2016-05-31,May,Core Equity,1,Axis Bank Ltd,INE238A01034,Bank,627579.0,3233.287,4.7277
+2016-05-31,May,Core Equity,2,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,1526.9157,2.2327
+2016-05-31,May,Core Equity,3,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1556.7652,2.2763
+2016-05-31,May,Core Equity,4,HDFC Bank Ltd,INE040A01026,Bank,258370.0,3053.675,4.4651
+2016-05-31,May,Core Equity,5,ICICI Bank Ltd,INE090A01021,Bank,1026870.0,2512.2375,3.6734
+2016-05-31,May,Core Equity,6,ICRA Ltd,INE725G01011,Finance,88428.0,3823.0962,5.5902
+2016-05-31,May,Core Equity,7,IL&FS Investment Managers Ltd,INE050B01023,Finance,11370900.0,1756.804,2.5688
+2016-05-31,May,Core Equity,8,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,1973.9157,2.8863
+2016-05-31,May,Core Equity,9,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1017.4142,1.4877
+2016-05-31,May,Core Equity,10,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,388489.0,5028.9901,7.3534
+2016-05-31,May,Core Equity,11,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts And Other",574281.0,2380.969,3.4815
+2016-05-31,May,Core Equity,12,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,1905.6488,2.7865
+2016-05-31,May,Core Equity,13,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,328.5539,0.4804
+2016-05-31,May,Core Equity,14,Noida Toll Bridge Company Ltd,INE781B01015,Transportation,8748218.0,2012.0901,2.9421
+2016-05-31,May,Core Equity,15,Persistent Systems Ltd,INE262H01013,Software,430073.0,3165.1222,4.6281
+2016-05-31,May,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,635.9808,0.9299
+2016-05-31,May,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,314.6025,0.46
+2016-05-31,May,Core Equity,18,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371395.0,2869.5835,4.1959
+2016-05-31,May,Special Situation / Arbitrage,19,Cipla Ltd,INE059A01026,Pharmaceuticals,142400.0,673.0536,0.9841
+2016-05-31,May,Special Situation / Arbitrage,20,Coal India Ltd,INE522F01014,Minerals & Mining,290400.0,846.2256,1.2374
+2016-05-31,May,Special Situation / Arbitrage,21,Infosys Ltd,INE009A01021,Software,143000.0,1785.5695,2.6109
+2016-05-31,May,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,99200.0,348.2416,0.5092
+2016-05-31,May,Special Situation / Arbitrage,23,Tata Motors Ltd,INE155A01022,Auto,393000.0,1806.4245,2.6414
+2016-05-31,May,Special Situation / Arbitrage,24,Yes Bank Ltd,INE528G01019,Bank,74200.0,766.486,1.1208
+2016-05-31,May,Foreign Equity / ADRs,31,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,2016.7366,2.9489
+2016-05-31,May,Foreign Equity / ADRs,32,Alphabet INC,US02079K1079,Software,16593.0,8176.2088,11.9553
+2016-05-31,May,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,706.3306,1.0328
+2016-05-31,May,Foreign Equity / ADRs,34,APPLE Inc,US0378331005,Software,1800.0,121.4827,0.1776
+2016-05-31,May,Foreign Equity / ADRs,35,International Business Machines Corp,US4592001014,Software,20920.0,2150.42,3.1444
+2016-05-31,May,Foreign Equity / ADRs,36,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,37010.0,1865.3372,2.7275
+2016-05-31,May,Foreign Equity / ADRs,37,Standard Chartered PLC,GB0004082847,Bank,56717.0,302.771,0.4427
+2016-05-31,May,Foreign Equity / ADRs,38,United Parcel Services INC,US9113121068,Logistics,39675.0,2747.8587,4.0179
+2016-07-31,July,Core Equity,1,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,385489.0,6244.1508,9.4016
+2016-07-31,July,Core Equity,2,HDFC Bank Ltd,INE040A01026,Bank,369070.0,4599.3503,6.9251
+2016-07-31,July,Core Equity,3,ICRA Ltd,INE725G01011,Finance,87430.0,3235.9154,4.8722
+2016-07-31,July,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,430073.0,2952.0211,4.4448
+2016-07-31,July,Core Equity,5,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729.0,2945.3947,4.4348
+2016-07-31,July,Core Equity,6,Axis Bank Ltd,INE238A01034,Bank,505179.0,2759.0351,4.1542
+2016-07-31,July,Core Equity,7,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts And Other",574281.0,2522.8164,3.7985
+2016-07-31,July,Core Equity,8,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,2291.2689,3.4499
+2016-07-31,July,Core Equity,9,Noida Toll Bridge Company Ltd,INE781B01015,Transportation,8748218.0,2060.2053,3.102
+2016-07-31,July,Core Equity,10,ICICI Bank Ltd,INE090A01021,Bank,754970.0,1984.8161,2.9885
+2016-07-31,July,Core Equity,11,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,1966.1715,2.9604
+2016-07-31,July,Core Equity,12,IL&FS Investment Managers Ltd,INE050B01023,Finance,11370900.0,1893.2549,2.8506
+2016-07-31,July,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1767.4699,2.6612
+2016-07-31,July,Core Equity,14,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,1671.4358,2.5166
+2016-07-31,July,Core Equity,15,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1220.5894,1.8378
+2016-07-31,July,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,671.664,1.0113
+2016-07-31,July,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,339.3002,0.5109
+2016-07-31,July,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,276.6442,0.4165
+2016-07-31,July,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,273000.0,1373.736,2.0684
+2016-07-31,July,Special Situation / Arbitrage,20,Coal India Ltd,INE522F01014,Minerals & Mining,290700.0,953.496,1.4356
+2016-07-31,July,Foreign Equity / ADRs,23,Alphabet INC,US02079K1079,Software,15093.0,7541.1169,11.3544
+2016-07-31,July,Foreign Equity / ADRs,24,United Parcel Services INC,US9113121068,Logistics,39675.0,2889.6151,4.3508
+2016-07-31,July,Foreign Equity / ADRs,25,International Business Machines Corp,US4592001014,Software,20920.0,2261.2998,3.4048
+2016-07-31,July,Foreign Equity / ADRs,26,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,2116.7304,3.1871
+2016-07-31,July,Foreign Equity / ADRs,27,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,37010.0,1949.8064,2.9358
+2016-07-31,July,Foreign Equity / ADRs,28,APPLE Inc,US0378331005,Software,12550.0,877.1386,1.3207
+2016-07-31,July,Foreign Equity / ADRs,29,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,701.4276,1.0561
+2016-07-31,July,Foreign Equity / ADRs,30,Standard Chartered PLC,GB0004082847,Bank,56717.0,303.1033,0.4564
+2016-08-31,August,Core Equity,1,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,385489.0,6020.3745,8.7575
+2016-08-31,August,Core Equity,2,HDFC Bank Ltd,INE040A01026,Bank,369070.0,4765.4318,6.932
+2016-08-31,August,Core Equity,3,ICRA Ltd,INE725G01011,Finance,87430.0,3384.153,4.9228
+2016-08-31,August,Core Equity,4,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729.0,3267.4979,4.7531
+2016-08-31,August,Core Equity,5,Axis Bank Ltd,INE238A01034,Bank,505179.0,3015.1609,4.386
+2016-08-31,August,Core Equity,6,Persistent Systems Ltd,INE262H01013,Software,480073.0,2988.2144,4.3468
+2016-08-31,August,Core Equity,7,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,2831.2641,4.1185
+2016-08-31,August,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts&Other Recreational Activities",574281.0,2803.0656,4.0775
+2016-08-31,August,Core Equity,9,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,2062.499,3.0002
+2016-08-31,August,Core Equity,10,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,2011.7054,2.9263
+2016-08-31,August,Core Equity,11,Noida Toll Bridge Company Ltd,INE781B01015,Transportation,8748218.0,1985.8455,2.8887
+2016-08-31,August,Core Equity,12,ICICI Bank Ltd,INE090A01021,Bank,754970.0,1947.8226,2.8334
+2016-08-31,August,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1905.0028,2.7711
+2016-08-31,August,Core Equity,14,IL&FS Investment Managers Ltd,INE050B01023,Finance,10925415.0,1627.8868,2.368
+2016-08-31,August,Core Equity,15,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1280.8202,1.8631
+2016-08-31,August,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,669.3624,0.9737
+2016-08-31,August,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,328.0434,0.4772
+2016-08-31,August,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,243.8778,0.3548
+2016-08-31,August,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,273000.0,1467.921,2.1353
+2016-08-31,August,Special Situation / Arbitrage,20,Coal India Ltd,INE522F01014,Minerals/Mining,290700.0,969.4845,1.4103
+2016-08-31,August,Foreign Equity / ADRs,23,Alphabet INC,US02079K1079,Software,15093.0,7773.9566,11.3084
+2016-08-31,August,Foreign Equity / ADRs,24,United Parcel Services INC,US9113121068,Logistics,39675.0,2906.3254,4.2277
+2016-08-31,August,Foreign Equity / ADRs,25,International Business Machines Corp,US4592001014,Software,20920.0,2233.2605,3.2486
+2016-08-31,August,Foreign Equity / ADRs,26,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,2142.1226,3.116
+2016-08-31,August,Foreign Equity / ADRs,27,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,37010.0,1970.0004,2.8657
+2016-08-31,August,Foreign Equity / ADRs,28,APPLE Inc,US0378331005,Software,12550.0,890.9205,1.296
+2016-08-31,August,Foreign Equity / ADRs,29,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,698.2284,1.0157
+2016-08-31,August,Foreign Equity / ADRs,30,Standard Chartered PLC,GB0004082847,Bank,56717.0,315.6919,0.4592
+2016-09-30,September,Core Equity,1,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,385489.0,5607.323,8.2949
+2016-09-30,September,Core Equity,2,HDFC Bank Ltd,INE040A01026,Banks,369070.0,4697.7075,6.9493
+2016-09-30,September,Core Equity,3,ICRA Ltd,INE725G01011,Finance,87430.0,3429.7915,5.0737
+2016-09-30,September,Core Equity,4,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729.0,3303.5556,4.8869
+2016-09-30,September,Core Equity,5,Persistent Systems Ltd,INE262H01013,Software,480073.0,3072.9473,4.5458
+2016-09-30,September,Core Equity,6,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,2749.8054,4.0678
+2016-09-30,September,Core Equity,7,Axis Bank Ltd,INE238A01034,Banks,505179.0,2734.7865,4.0456
+2016-09-30,September,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreational Activities",574281.0,2565.3132,3.7949
+2016-09-30,September,Core Equity,9,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,2324.0109,3.4379
+2016-09-30,September,Core Equity,10,Noida Toll Bridge Company Ltd,INE781B01015,Transportation,8748218.0,1907.1115,2.8212
+2016-09-30,September,Core Equity,11,ICICI Bank Ltd,INE090A01021,Banks,754970.0,1903.6569,2.8161
+2016-09-30,September,Core Equity,12,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,1888.9278,2.7943
+2016-09-30,September,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1715.3537,2.5375
+2016-09-30,September,Core Equity,14,IL&FS Investment Managers Ltd,INE050B01023,Finance,10273639.0,1515.3618,2.2417
+2016-09-30,September,Core Equity,15,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1418.7947,2.0988
+2016-09-30,September,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,644.4144,0.9533
+2016-09-30,September,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,295.8691,0.4377
+2016-09-30,September,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,231.5904,0.3426
+2016-09-30,September,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,273000.0,1460.1405,2.16
+2016-09-30,September,Special Situation / Arbitrage,20,Coal India Ltd,INE522F01014,Minerals/Mining,290700.0,936.9261,1.386
+2016-09-30,September,Foreign Equity / ADRs,23,Alphabet INC,US02079K1079,Software,15093.0,7790.6215,11.5247
+2016-09-30,September,Foreign Equity / ADRs,24,United Parcel Services INC,US9113121068,Logistics,39675.0,2859.3911,4.2299
+2016-09-30,September,Foreign Equity / ADRs,25,International Business Machines Corp,US4592001014,Software,20920.0,2202.9784,3.2589
+2016-09-30,September,Foreign Equity / ADRs,26,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,2073.7921,3.0678
+2016-09-30,September,Foreign Equity / ADRs,27,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,37010.0,1962.1011,2.9025
+2016-09-30,September,Foreign Equity / ADRs,28,APPLE Inc,US0378331005,Software,12550.0,937.6665,1.3871
+2016-09-30,September,Foreign Equity / ADRs,29,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,726.449,1.0746
+2016-09-30,September,Foreign Equity / ADRs,30,Standard Chartered PLC,GB0004082847,Bank,56717.0,309.1015,0.4573
+2016-10-31,October,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070.0,4646.7758,6.7227
+2016-10-31,October,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,210636.0,4586.3883,6.6353
+2016-10-31,October,Core Equity,3,ICRA Ltd,INE725G01011,Finance,87430.0,3719.1411,5.3807
+2016-10-31,October,Core Equity,4,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729.0,3251.6994,4.7044
+2016-10-31,October,Core Equity,5,Persistent Systems Ltd,INE262H01013,Software,480073.0,3095.5107,4.4784
+2016-10-31,October,Core Equity,6,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,3039.24,4.397
+2016-10-31,October,Core Equity,7,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,143285.0,2770.6304,4.0084
+2016-10-31,October,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts&OtherRecreatnl Actvi",574281.0,2561.2933,3.7055
+2016-10-31,October,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179.0,2459.7166,3.5586
+2016-10-31,October,Core Equity,10,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,2433.8049,3.5211
+2016-10-31,October,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970.0,2090.1344,3.0239
+2016-10-31,October,Core Equity,12,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,1863.301,2.6957
+2016-10-31,October,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1711.3218,2.4758
+2016-10-31,October,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1442.816,2.0874
+2016-10-31,October,Core Equity,15,IL&FS Investment Managers Ltd,INE050B01023,Finance,9121384.0,1395.5718,2.019
+2016-10-31,October,Core Equity,16,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,613.5192,0.8876
+2016-10-31,October,Core Equity,17,Selan Exploration Technology Ltd,INE818A01017,Oil,168012.0,345.6847,0.5001
+2016-10-31,October,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,245.3915,0.355
+2016-10-31,October,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,273000.0,1466.01,2.1209
+2016-10-31,October,Special Situation / Arbitrage,20,Coal India Ltd,INE522F01014,Minerals/Mining,290700.0,944.1936,1.366
+2016-10-31,October,Special Situation / Arbitrage,21,Cairns India Ltd,INE910H01017,Oil,266000.0,601.16,0.8697
+2016-10-31,October,Foreign Equity / ADRs,25,Alphabet INC,US02079K1079,Software,15093.0,8014.7119,11.5953
+2016-10-31,October,Foreign Equity / ADRs,26,United Parcel Services INC,US9113121068,Logistics,39675.0,2862.9669,4.142
+2016-10-31,October,Foreign Equity / ADRs,27,International Business Machines Corp,US4592001014,Software,20920.0,2141.9016,3.0988
+2016-10-31,October,Foreign Equity / ADRs,28,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,1964.9634,2.8428
+2016-10-31,October,Foreign Equity / ADRs,29,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,37010.0,1820.1403,2.6333
+2016-10-31,October,Foreign Equity / ADRs,30,APPLE Inc,US0378331005,Software,12550.0,959.2403,1.3878
+2016-10-31,October,Foreign Equity / ADRs,31,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,674.3755,0.9757
+2016-10-31,October,Foreign Equity / ADRs,32,Standard Chartered PLC,GB0004082847,Bank,56717.0,321.4877,0.4651
+2016-11-30,November,Core Equity,1,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,228504.0,4879.5887,7.2276
+2016-11-30,November,Core Equity,2,HDFC Bank Ltd,INE040A01026,Bank,369070.0,4427.3637,6.5577
+2016-11-30,November,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671.0,3394.4135,5.0277
+2016-11-30,November,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373.0,3304.9499,4.8952
+2016-11-30,November,Core Equity,5,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729.0,3215.0841,4.7621
+2016-11-30,November,Core Equity,6,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,2929.8627,4.3397
+2016-11-30,November,Core Equity,7,Axis Bank Ltd,INE238A01034,Bank,505179.0,2373.5835,3.5157
+2016-11-30,November,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281.0,2295.9754,3.4008
+2016-11-30,November,Core Equity,9,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,2275.5319,3.3705
+2016-11-30,November,Core Equity,10,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,121696.0,2016.0159,2.9861
+2016-11-30,November,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970.0,2004.8228,2.9695
+2016-11-30,November,Core Equity,12,Mphasis Ltd (prev) Mphasis BFL Ltd,INE356A01018,Software,363500.0,1914.7362,2.8361
+2016-11-30,November,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1631.7289,2.4169
+2016-11-30,November,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1375.012,2.0366
+2016-11-30,November,Core Equity,15,IL&FS Investment Managers Ltd,INE050B01023,Finance,8656714.0,1281.1937,1.8977
+2016-11-30,November,Core Equity,16,Dr.Reddy's Laboratories Ltd,INE089A01023,Pharmaceuticals,40000.0,1278.76,1.8941
+2016-11-30,November,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,615.9384,0.9123
+2016-11-30,November,Core Equity,18,Selan Exploration Technology Ltd,INE818A01017,Oil,113512.0,211.4161,0.3131
+2016-11-30,November,Core Equity,19,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,207.817,0.3078
+2016-11-30,November,Special Situation / Arbitrage,20,Tata Motors Ltd,INE155A01022,Auto,220500.0,1012.7565,1.5001
+2016-11-30,November,Special Situation / Arbitrage,21,Coal India Ltd,INE522F01014,Minerals/Mining,290700.0,897.1002,1.3288
+2016-11-30,November,Special Situation / Arbitrage,22,Cairn India Ltd,INE910H01017,Oil,231000.0,581.196,0.8609
+2016-11-30,November,Foreign Equity / ADRs,26,Alphabet INC,US02079K1079,Software,15093.0,7956.6082,11.7852
+2016-11-30,November,Foreign Equity / ADRs,27,United Parcel Services INC,US9113121068,Logistics,39675.0,3155.0781,4.6732
+2016-11-30,November,Foreign Equity / ADRs,28,International Business Machines Corp,US4592001014,Software,20920.0,2339.6305,3.4654
+2016-11-30,November,Foreign Equity / ADRs,29,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,2097.8632,3.1073
+2016-11-30,November,Foreign Equity / ADRs,30,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690.0,1881.5636,2.7869
+2016-11-30,November,Foreign Equity / ADRs,31,APPLE Inc,US0378331005,Software,12550.0,956.6453,1.417
+2016-11-30,November,Foreign Equity / ADRs,32,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,596.0811,0.8829
+2016-11-30,November,Foreign Equity / ADRs,33,Standard Chartered PLC,GB0004082847,Bank,56717.0,304.5461,0.4511
+2016-12-31,December,Core Equity,1,HDFC Bank Ltd,INE040A01026,Bank,369070.0,4451.7223,6.7367
+2016-12-31,December,Core Equity,2,Bajaj Holdings & Investment Ltd,INE118A01012,Finance,240482.0,4375.2093,6.6209
+2016-12-31,December,Core Equity,3,ICRA Ltd,INE725G01011,Finance,85671.0,3413.9465,5.1663
+2016-12-31,December,Core Equity,4,Persistent Systems Ltd,INE262H01013,Software,542373.0,3343.7295,5.06
+2016-12-31,December,Core Equity,5,Indraprastha Gas Ltd,INE203G01019,Gas,353400.0,3245.0955,4.9108
+2016-12-31,December,Core Equity,6,Zydus Wellness Ltd,INE768C01010,Consumer Non Durables,371729.0,3219.7307,4.8724
+2016-12-31,December,Core Equity,7,Balkrishna Industries Ltd,INE787D01026,Auto Ancillaries,229215.0,2527.0954,3.8242
+2016-12-31,December,Core Equity,8,Mahindra Holidays & Resorts India Ltd,INE998I01010,"Hotels,Resorts & Other Recreatnl Actvities",574281.0,2285.9255,3.4593
+2016-12-31,December,Core Equity,9,Axis Bank Ltd,INE238A01034,Bank,505179.0,2273.0529,3.4398
+2016-12-31,December,Core Equity,10,Mphasis Ltd(prev)Mphasis BFL Ltd,INE356A01018,Software,363500.0,2054.6838,3.1093
+2016-12-31,December,Core Equity,11,ICICI Bank Ltd,INE090A01021,Bank,754970.0,1927.4384,2.9168
+2016-12-31,December,Core Equity,12,Maharashtra Scooters Ltd,INE288A01013,Auto Ancillaries,107222.0,1728.5795,2.6158
+2016-12-31,December,Core Equity,13,Gujarat Gas Ltd,INE844O01022,Gas,298660.0,1562.1411,2.364
+2016-12-31,December,Core Equity,14,IPCA Laboratories Ltd,INE571A01020,Pharmaceuticals,236663.0,1261.5321,1.9091
+2016-12-31,December,Core Equity,15,Dr.Reddys Laboratories Ltd,INE089A01023,Pharmaceuticals,40000.0,1224.16,1.8525
+2016-12-31,December,Core Equity,16,IL&FS Investment Managers Ltd,INE050B01023,Finance,8038985.0,1153.5943,1.7457
+2016-12-31,December,Core Equity,17,Pfizer (I) Ltd,INE182A01018,Pharmaceuticals,33600.0,612.8304,0.9274
+2016-12-31,December,Core Equity,18,MT Educare Ltd,INE472M01018,Diversified Consumer Services,178078.0,208.8855,0.3161
+2016-12-31,December,Special Situation / Arbitrage,19,Tata Motors Ltd,INE155A01022,Auto,184500.0,870.84,1.3178
+2016-12-31,December,Special Situation / Arbitrage,20,Sun Pharmaceuticals Industries Ltd,INE044A01036,Pharmaceuticals,128800.0,811.44,1.2279
+2016-12-31,December,Special Situation / Arbitrage,21,Cairn India Ltd,INE910H01017,Oil,231000.0,559.3665,0.8465
+2016-12-31,December,Special Situation / Arbitrage,22,ITC Ltd,INE154A01025,Consumer Non Durables,124800.0,301.5792,0.4564
+2016-12-31,December,Foreign Equity / ADRs,27,Alphabet INC,US02079K1079,Software,15093.0,8025.904,12.1455
+2016-12-31,December,Foreign Equity / ADRs,28,United Parcel Services INC,US9113121068,Logistics,39675.0,3098.9343,4.6896
+2016-12-31,December,Foreign Equity / ADRs,29,International Business Machines Corp,US4592001014,Software,20920.0,2367.608,3.5829
+2016-12-31,December,Foreign Equity / ADRs,30,3M CO,US88579Y1010,Industrial Conglomerates,17755.0,2151.8549,3.2564
+2016-12-31,December,Foreign Equity / ADRs,31,Nestle SA-ADR *,US6410694060,Consumer-Food Proc,40690.0,1973.4613,2.9864
+2016-12-31,December,Foreign Equity / ADRs,32,APPLE Inc,US0378331005,Software,12550.0,995.1747,1.506
+2016-12-31,December,Foreign Equity / ADRs,33,Anheuser Busch Inbev SA-ADR,US03524A1088,Consumer Misc,8316.0,592.5455,0.8967
+2016-12-31,December,Foreign Equity / ADRs,34,Standard Chartered PLC,GB0004082847,Bank,56717.0,308.6152,0.467

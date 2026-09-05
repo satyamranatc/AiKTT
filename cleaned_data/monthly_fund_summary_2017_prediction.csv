@@ -1,0 +1,13 @@
+month,report_date,status,predicted_aum_lakhs,predicted_aum_crores,predicted_direct_nav,predicted_regular_nav,predicted_foreign_equity_pct,predicted_hedged_pct
+January,2017-01-31,AI Forecasted,71361.0,713.61,20.1518,19.7579,29.5,32.0
+February,2017-02-28,AI Forecasted,72070.0,720.7,20.4564,20.0477,29.5,32.0
+March,2017-03-31,AI Forecasted,72780.0,727.8,20.761,20.3374,29.5,32.0
+April,2017-04-30,AI Forecasted,73489.0,734.89,21.0655,20.6271,29.5,32.0
+May,2017-05-31,AI Forecasted,74198.0,741.98,21.3701,20.9169,29.5,32.0
+June,2017-06-30,AI Forecasted,74907.0,749.07,21.6746,21.2066,29.5,32.0
+July,2017-07-31,AI Forecasted,75617.0,756.17,21.9792,21.4964,29.5,32.0
+August,2017-08-31,AI Forecasted,76326.0,763.26,22.2838,21.7861,29.5,32.0
+September,2017-09-30,AI Forecasted,77035.0,770.35,22.5883,22.0759,29.5,32.0
+October,2017-10-31,AI Forecasted,77744.0,777.44,22.8929,22.3656,29.5,32.0
+November,2017-11-30,AI Forecasted,78454.0,784.54,23.1974,22.6554,29.5,32.0
+December,2017-12-31,AI Forecasted,79163.0,791.63,23.502,22.9451,29.5,32.0

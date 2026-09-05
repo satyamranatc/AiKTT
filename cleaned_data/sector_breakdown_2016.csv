@@ -1,0 +1,169 @@
+month,report_date,industry_sector,market_value_lakhs
+April,2016-04-30,Auto,1604.8155
+April,2016-04-30,Auto Ancillaries,6441.3113
+April,2016-04-30,Bank,9337.0723
+April,2016-04-30,Consumer Misc,690.2788
+April,2016-04-30,Consumer Non Durables,3106.1416
+April,2016-04-30,Consumer-Food Proc,1824.9231
+April,2016-04-30,Diversified Consumer Services,301.4861
+April,2016-04-30,Finance,5740.9096
+April,2016-04-30,Gas,3626.2625
+April,2016-04-30,"Hotels,Resorts And Other",2289.9455
+April,2016-04-30,Industrial Conglomerates,1966.4444
+April,2016-04-30,Logistics,2760.4402
+April,2016-04-30,Minerals & Mining,836.4972
+April,2016-04-30,Oil,332.3277
+April,2016-04-30,Pharmaceuticals,2526.8309
+April,2016-04-30,Software,15552.9928
+April,2016-04-30,Transportation,1977.0973
+August,2016-08-31,Auto,1467.921
+August,2016-08-31,Auto Ancillaries,8032.0799
+August,2016-08-31,Bank,10044.1072
+August,2016-08-31,Consumer Misc,698.2284
+August,2016-08-31,Consumer Non Durables,3267.4979
+August,2016-08-31,Consumer-Food Proc,1970.0004
+August,2016-08-31,Diversified Consumer Services,243.8778
+August,2016-08-31,Finance,5012.0398
+August,2016-08-31,Gas,4736.2669
+August,2016-08-31,"Hotels,Resorts&Other Recreational Activities",2803.0656
+August,2016-08-31,Industrial Conglomerates,2142.1226
+August,2016-08-31,Logistics,2906.3254
+August,2016-08-31,Minerals/Mining,969.4845
+August,2016-08-31,Oil,328.0434
+August,2016-08-31,Pharmaceuticals,1950.1826
+August,2016-08-31,Software,15948.851
+August,2016-08-31,Transportation,1985.8455
+December,2016-12-31,Auto,870.84
+December,2016-12-31,Auto Ancillaries,4255.6749
+December,2016-12-31,Bank,8960.828800000001
+December,2016-12-31,Consumer Misc,592.5455
+December,2016-12-31,Consumer Non Durables,3521.3099
+December,2016-12-31,Consumer-Food Proc,1973.4613
+December,2016-12-31,Diversified Consumer Services,208.8855
+December,2016-12-31,Finance,8942.750100000001
+December,2016-12-31,Gas,4807.2366
+December,2016-12-31,"Hotels,Resorts & Other Recreatnl Actvities",2285.9255
+December,2016-12-31,Industrial Conglomerates,2151.8549
+December,2016-12-31,Logistics,3098.9343
+December,2016-12-31,Oil,559.3665
+December,2016-12-31,Pharmaceuticals,3909.9625
+December,2016-12-31,Software,16787.100000000002
+February,2016-02-29,Auto,1177.821
+February,2016-02-29,Auto Ancillaries,5702.8613
+February,2016-02-29,Bank,8880.9939
+February,2016-02-29,Consumer Misc,638.748
+February,2016-02-29,Consumer Non Durables,2690.8251999999998
+February,2016-02-29,Consumer-Food Proc,1793.5699
+February,2016-02-29,Diversified Consumer Services,249.3092
+February,2016-02-29,Finance,5028.8091
+February,2016-02-29,Gas,3233.5115
+February,2016-02-29,"Hotels,Resorts And Other",2075.7387
+February,2016-02-29,Industrial Conglomerates,1922.5189
+February,2016-02-29,Logistics,2644.8774
+February,2016-02-29,Oil,258.7385
+February,2016-02-29,Pharmaceuticals,2517.6365
+February,2016-02-29,Software,14925.0537
+February,2016-02-29,Transportation,1946.4785
+January,2016-01-31,Auto,1010.7
+January,2016-01-31,Auto Ancillaries,6132.7055
+January,2016-01-31,Banks,9242.2508
+January,2016-01-31,Brewers,689.4052
+January,2016-01-31,Consumer Non Durables,2771.8048
+January,2016-01-31,Diversified Banks,143.5656
+January,2016-01-31,Diversified Consumer Services,293.3835
+January,2016-01-31,Finance,5453.8486
+January,2016-01-31,Gas,3687.7411
+January,2016-01-31,"Hotels, Resorts And Other Recreational Activities",2289.0841
+January,2016-01-31,IT Consulting & Other Services,1731.0845
+January,2016-01-31,Industrial Conglomerates,1773.0296
+January,2016-01-31,Internet Software & Services,8221.5201
+January,2016-01-31,Logistics,2447.3266
+January,2016-01-31,Oil,323.3391
+January,2016-01-31,Packaged Foods,1801.7648
+January,2016-01-31,Pharmaceuticals,2833.2445
+January,2016-01-31,Software,4496.9348
+January,2016-01-31,Transportation,2064.5794
+July,2016-07-31,Auto,1373.736
+July,2016-07-31,Auto Ancillaries,7915.5866000000005
+July,2016-07-31,Bank,9646.3048
+July,2016-07-31,Consumer Misc,701.4276
+July,2016-07-31,Consumer Non Durables,2945.3947
+July,2016-07-31,Consumer-Food Proc,1949.8064
+July,2016-07-31,Diversified Consumer Services,276.6442
+July,2016-07-31,Finance,5129.1703
+July,2016-07-31,Gas,4058.7388
+July,2016-07-31,"Hotels,Resorts And Other",2522.8164
+July,2016-07-31,Industrial Conglomerates,2116.7304
+July,2016-07-31,Logistics,2889.6151
+July,2016-07-31,Minerals & Mining,953.496
+July,2016-07-31,Oil,339.3002
+July,2016-07-31,Pharmaceuticals,1892.2534
+July,2016-07-31,Software,15597.747899999998
+July,2016-07-31,Transportation,2060.2053
+May,2016-05-31,Auto,1806.4245
+May,2016-05-31,Auto Ancillaries,6555.9058
+May,2016-05-31,Bank,9868.4565
+May,2016-05-31,Consumer Misc,706.3306
+May,2016-05-31,Consumer Non Durables,3217.8251
+May,2016-05-31,Consumer-Food Proc,1865.3372
+May,2016-05-31,Diversified Consumer Services,328.5539
+May,2016-05-31,Finance,5579.9002
+May,2016-05-31,Gas,3530.6809000000003
+May,2016-05-31,"Hotels,Resorts And Other",2380.969
+May,2016-05-31,Industrial Conglomerates,2016.7366
+May,2016-05-31,Logistics,2747.8587
+May,2016-05-31,Minerals & Mining,846.2256
+May,2016-05-31,Oil,314.6025
+May,2016-05-31,Pharmaceuticals,2326.4486
+May,2016-05-31,Software,17304.452
+May,2016-05-31,Transportation,2012.0901
+November,2016-11-30,Auto,1012.7565
+November,2016-11-30,Auto Ancillaries,4291.5478
+November,2016-11-30,Bank,9110.3161
+November,2016-11-30,Consumer Misc,596.0811
+November,2016-11-30,Consumer Non Durables,3215.0841
+November,2016-11-30,Consumer-Food Proc,1881.5636
+November,2016-11-30,Diversified Consumer Services,207.817
+November,2016-11-30,Finance,9555.1959
+November,2016-11-30,Gas,4561.5916
+November,2016-11-30,"Hotels,Resorts & Other Recreatnl Actvities",2295.9754
+November,2016-11-30,Industrial Conglomerates,2097.8632
+November,2016-11-30,Logistics,3155.0781
+November,2016-11-30,Minerals/Mining,897.1002
+November,2016-11-30,Oil,792.6121
+November,2016-11-30,Pharmaceuticals,3269.7104
+November,2016-11-30,Software,16472.5701
+October,2016-10-31,Auto,1466.01
+October,2016-10-31,Auto Ancillaries,5204.4353
+October,2016-10-31,Bank,9518.1145
+October,2016-10-31,Consumer Misc,674.3755
+October,2016-10-31,Consumer Non Durables,3251.6994
+October,2016-10-31,Consumer-Food Proc,1820.1403
+October,2016-10-31,Diversified Consumer Services,245.3915
+October,2016-10-31,Finance,9701.1012
+October,2016-10-31,Gas,4750.5617999999995
+October,2016-10-31,"Hotels,Resorts&OtherRecreatnl Actvi",2561.2933
+October,2016-10-31,Industrial Conglomerates,1964.9634
+October,2016-10-31,Logistics,2862.9669
+October,2016-10-31,Minerals/Mining,944.1936
+October,2016-10-31,Oil,946.8447
+October,2016-10-31,Pharmaceuticals,2056.3352
+October,2016-10-31,Software,16074.665500000001
+September,2016-09-30,Auto,1460.1405
+September,2016-09-30,Auto Ancillaries,7931.3339000000005
+September,2016-09-30,Bank,309.1015
+September,2016-09-30,Banks,9336.1509
+September,2016-09-30,Consumer Misc,726.449
+September,2016-09-30,Consumer Non Durables,3303.5556
+September,2016-09-30,Consumer-Food Proc,1962.1011
+September,2016-09-30,Diversified Consumer Services,231.5904
+September,2016-09-30,Finance,4945.1533
+September,2016-09-30,Gas,4465.1591
+September,2016-09-30,"Hotels,Resorts & Other Recreational Activities",2565.3132
+September,2016-09-30,Industrial Conglomerates,2073.7921
+September,2016-09-30,Logistics,2859.3911
+September,2016-09-30,Minerals/Mining,936.9261
+September,2016-09-30,Oil,295.8691
+September,2016-09-30,Pharmaceuticals,2063.2091
+September,2016-09-30,Software,15893.1415
+September,2016-09-30,Transportation,1907.1115
